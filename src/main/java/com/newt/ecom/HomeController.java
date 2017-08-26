@@ -255,6 +255,7 @@ public class HomeController {
 
 	}
 	
+	
 	private List<Product> getProductList(){
 		 final String restURI = "http://52.207.22.180:8765/products/";		
 		 RestTemplate restTemplate = new RestTemplate();
