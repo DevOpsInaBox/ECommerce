@@ -29,6 +29,7 @@ import com.newt.ecom.model.Customer;
 import com.newt.ecom.model.Product;
 import com.newt.ecom.model.ShoppingCartItems;
 
+
 /**
  * Handles requests for the application home page.
  */
