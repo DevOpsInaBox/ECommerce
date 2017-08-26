@@ -21,6 +21,7 @@ import org.springframework.web.bind.support.SessionStatus;
 import org.springframework.web.client.RestTemplate;
 import org.springframework.web.servlet.ModelAndView;
 
+
 import com.newt.ecom.bean.ProductCheckoutDetails;
 import com.newt.ecom.bean.ProductList;
 import com.newt.ecom.bean.ShoppingBean;
