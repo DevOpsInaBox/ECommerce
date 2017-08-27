@@ -31,7 +31,8 @@
      <div class="grid_3" style="margin-left:300px; margin-top:5px; ">
 		<form:form action="#" commandName="shoppingBean">
 			<table id="tbDetails" style="background-color:#f0eff7;">  
-				<thead class="thproduct">  
+				<thead class="thproduct"> 
+				<tr colspan="4" align="center"><b>Products Catalog View</b></tr>
 			     	<tr align="center">
 			     		<th  class="all_buttons">Product ID</th>  
 			            <th  class="all_buttons">Product Name</th>  
