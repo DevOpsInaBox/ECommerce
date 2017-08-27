@@ -32,7 +32,7 @@
 		<form:form action="#" commandName="shoppingBean">
 			<table id="tbDetails" style="background-color:#f0eff7;">  
 				<thead class="thproduct"> 
-				<tr colspan="4" align="center"><b>Products Catalog View</b></tr>
+				<tr colspan="4" style="font-weight:bold;font-size:medium;text-align:center">Products Catalog View</tr>
 			     	<tr align="center">
 			     		<th  class="all_buttons">Product ID</th>  
 			            <th  class="all_buttons">Product Name</th>  
