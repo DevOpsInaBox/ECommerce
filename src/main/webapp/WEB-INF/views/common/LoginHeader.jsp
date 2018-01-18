@@ -27,7 +27,7 @@
             </div>
         </c:if>
          <c:if test="${not empty loggedInProfile.username }">
-         Welcome to our site and webpage EY ${loggedInProfile.customerName}<%--  ${loggedInProfile.lastName} --%>
+         Welcome to our site and webpage Verizon India ${loggedInProfile.customerName}<%--  ${loggedInProfile.lastName} --%>
 		<br><span class="text">Time:<%
   						 Date date = new Date();
 						SimpleDateFormat formatter=new SimpleDateFormat("HH:mm:ss aa");
