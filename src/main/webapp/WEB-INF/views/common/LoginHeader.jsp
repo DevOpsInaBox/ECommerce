@@ -9,7 +9,7 @@
                 <form action="login" method="post">
                     <table width="220px">
                         <tr>
-                            <td id="loginalready" colspan="2">Already a member?</td>
+                            <td id="loginalready" colspan="2">Already a Member?</td>
                         </tr>
                         <tr>
                             <td><input type="text" id="username" name="username" placeholder="User Name" size="20" class="loginname"/> </td>
